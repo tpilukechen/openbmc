@@ -4,4 +4,3 @@ Common targets are:
 You can also run generated qemu images with a command like:
      runqemu qemuarm
 
-Maintainer for test1
